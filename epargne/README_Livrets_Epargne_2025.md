@@ -32,8 +32,3 @@ Il regroupe les livrets réglementés, les comptes et plans d’épargne, avec l
 
 ---
 
-## 🧾 Auteur
-
-**Issad Tinhinane (Tina)**
-🎓 Étudiante à l’ESGI – Master 1 Intelligence Artificielle & Big Data
-📅 **Version :** Octobre 2025
